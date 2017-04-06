@@ -1,4 +1,4 @@
-# rn_segmentview
+# RN_Segmentview
 a simple segmentView for react-native  
 
 ### usage
